@@ -63,7 +63,7 @@ lxml==4.5.1
 Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
-mkl-fft==1.1.0
+mkl-fft==1.0.6
 mkl-random==1.1.1
 mkl-service==2.3.0
 mock==4.0.2
